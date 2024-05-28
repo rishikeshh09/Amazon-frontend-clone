@@ -10,3 +10,9 @@ Search Functionality: Users can search for specific products using the search ba
 Styling and Design: The design elements closely resemble those of Amazon, including colors, fonts, and layout, providing a familiar and intuitive interface for users.
 
 ## Screenshots
+![image](https://github.com/rishikeshh09/Amazon-frontend-clone/assets/148183580/0e25b18a-7bdf-49d2-a2d3-cfbe891a9fe7)
+![image](https://github.com/rishikeshh09/Amazon-frontend-clone/assets/148183580/607284bd-1f75-4a71-b73c-9441f0758267)
+![image](https://github.com/rishikeshh09/Amazon-frontend-clone/assets/148183580/7f536e5e-6fc7-4172-9795-4499417ea679)
+![image](https://github.com/rishikeshh09/Amazon-frontend-clone/assets/148183580/97e88429-4dc7-4ef7-bc89-13a5eddc5446)
+![image](https://github.com/rishikeshh09/Amazon-frontend-clone/assets/148183580/16b2b89f-cdcd-4424-83a3-cbabe529c408)
+
