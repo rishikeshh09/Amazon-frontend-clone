@@ -1,8 +1,8 @@
 # Amazon Frontend Replica
 
-## This project is a replica of the front end of Amazon, created using HTML and CSS. It aims to showcase my skills in front-end development by mimicking the design and layout of one of the world's largest e-commerce platforms.
+### This project is a replica of the front end of Amazon, created using HTML and CSS. It aims to showcase my skills in front-end development by mimicking the design and layout of one of the world's largest e-commerce platforms.
 
-# Features
+## Features
 Responsive Design: The layout adapts seamlessly to different screen sizes, ensuring a consistent user experience across devices.
 Product Display: Products are displayed in a grid layout, similar to the Amazon website, allowing users to easily browse through various items.
 Navigation Menu: A navigation menu is included for easy access to different product categories and sections of the website.
